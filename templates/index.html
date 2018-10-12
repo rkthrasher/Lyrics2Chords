@@ -1,0 +1,42 @@
+{% extends "layout.html" %}
+{% block body %}
+<body>
+  <center>
+    <!-- <p>The table has {{ length }} rows.</p> -->
+    <form action="" method="post">
+      {{ form.csrf }}
+      <div class="input text">
+        <!--{{ form.name.label(id='middle')  }} -->
+        {{ form.name(cols="90", rows="5", id="word_count") }}
+        <br>
+        Total word count: <span id="display_count">0</span> words.
+        Words left: <span id="word_left">200</span>
+        <div class="input submit">
+          <input type="submit"  value="Submit Lyrics" />
+        </div>
+        <br>
+        <br>
+        <br>
+        <h2 class="text-center text-uppercase text-secondary mb-0">Results</h2>
+        <hr class="star-dark mb-5">
+        {% with messages = get_flashed_messages(with_categories=true) %}
+          {% if messages %}
+          <ul>
+            {% for message in messages %}
+            <h6>{{ message[1] }}</h6>
+            <div>
+
+            </div>
+          {% endfor %}
+          </ul>
+          {% endif %}
+      {% endwith %}
+      <center>
+        <h6>
+      {{ dataframe | safe}}
+    </h6>
+    </center>
+    </form>
+  </center>
+</body>
+ {% endblock %}

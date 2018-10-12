@@ -1,0 +1,183 @@
+artist,song,valence,chord_prog,1,2,3,4
+10cc,the wall street shuffle,0.6729999999999999,456,F,G,Am,F
+3 doors down,kryptonite,0.5429999999999999,2456,F,G,Am,Dm
+3 doors down,kryptonite,0.5429999999999999,236,Am,Dm,Em,Am
+3 doors down,kryptonite,0.5429999999999999,2356,G,Am,Dm,Em
+3 doors down,kryptonite,0.5429999999999999,2346,Dm,Em,Am,F
+3 doors down,kryptonite,0.5429999999999999,3456,Em,Am,F,G
+311,amber,0.748,25,Dm,G,Dm,G
+abba,dancing queen,0.752,15667,C,Am7,G,Am
+abba,dancing queen,0.752,56,G,Am,G,Am
+abba,gimme gimme gimme a man after midnight,0.5329999999999999,356,Am,G,Em,Am
+abba,knowing me knowing you,0.85,1346,C,Am,Em,F
+abba,knowing me knowing you,0.85,1356,G,C,Am,Em
+abba,lay all your love on me,0.58,45/6566,F,G7/B,Am,G/B
+abba,mamma mia,0.83,14,C,F,C,F
+abba,mamma mia,0.83,14b7,C,F,Bb,F
+abba,mamma mia,0.83,1164,C,C/E,C,F
+abba,mamma mia,0.83,14556,F,G,C,G/B
+abba,mamma mia,0.83,1624,F,Dm,C/E,F
+abba,mamma mia,0.83,24b7,F,Bb,F,Dm
+abba,mamma mia,0.83,456b7,Am,G,F,Bb
+abba,mamma mia,0.83,45b7,G,F,Bb,F
+abba,mamma mia,0.83,16245,Dm,C/E,F,G
+abba,the day before you came,0.722,11624,C,F,C/E,Dm
+abba,the day before you came,0.722,155657,G,G7,C,G/B
+afi,miss murder,0.725,1235,Dm,C,G,Em
+am taxi,charissa,0.57,11646,F,C/E,C,Am
+am taxi,charissa,0.57,164,F,C/E,F,C/E
+adele,rolling in the deep,0.522,3455/6,F,G,Em,G7/B
+alabama shakes,guess who,0.7090000000000001,1727,Dm7,C7,Dm7,C7
+alestorm,shipwrecked,0.618,1455/6,C,G,G7/B,F
+alestorm,shipwrecked,0.618,455/6,G,G7/B,F,G
+alestorm,shipwrecked,0.618,455/66,G,G7/B,Am,F
+allstar weekend,hey princess,0.64,346b7,Em,Am,F,Bb
+alunageorge,you know you like it,0.5870000000000001,274767,Dm7,F7,Am7,Dm7
+america,a horse with no name,0.831,1162,C,Dm,C/E,C
+amy winehouse,you know im no good,0.7340000000000001,25/66,Am,Dm,G7/B,Am
+andrew bird,pulaski at night,0.531,1162747,C,F7,Dm7,C/E
+andrew gold,spooky scary skeletons,0.884,45/66,Am,F,G7/B,Am
+andy grammer,honey i'm good,0.595,1164567,G,Am7,C,C/G
+andy grammer,keep your head up,0.816,127567,C,Am7,G,Dm7
+anne murray,danny's song,0.522,156b7,G,C,Bb,Am
+ariana grande,focus,0.818,273756,G,Am,Dm7,Em7
+ariana grande,focus,0.818,274756,F7,G,Am,Dm7
+ariana grande,focus,0.818,4755/66,F7,G,Am,G7/B
+atlas genius,trojans,0.536,1164476,Am,F7,C,C/G
+atlas genius,trojans,0.536,1164475,F7,C,C/G,G
+avenged sevenfold,blinded in chains,0.574,12456,F,Dm,C,G/B
+awreeoh,don't get deleted,0.737,16172767,Dm7,C7,Am7,C/E
+bee gees,night fever,0.955,167b7,C,Am7,Bb,Am7
+bee gees,night fever,0.955,1467b7,F,Bb,C,Am7
+bee gees,night fever,0.955,275,G,Dm7,G,Dm7
+bee gees,stayin' alive,0.955,1227,C,Dm,Dm7,Dm
+bee gees,stayin' alive,0.955,164227,Dm,Dm7,Dm,C/G
+beirut,fener,0.764,127347,C,Dm7,Em,F7
+beirut,fener,0.764,273475,Dm7,Em,F7,G
+billy talent,fallen leaves,0.914,13456,C,G/B,F,Em
+billy talent,fallen leaves,0.914,23456,F,Em,Dm,G/B
+billy talent,fallen leaves,0.914,12356,Em,Dm,C,G/B
+blake mills,wintersong,0.738,447,F,F7,F,F7
+blake mills,wintersong,0.738,162447,Dm,C/E,F,F7
+blind melon,no rain,0.5660000000000001,1557b7,C,Bb,G,G7
+blind melon,no rain,0.5660000000000001,4557,G,G7,G,F
+bloc party,banquet,0.892,11725,Dm,C,C7,G
+blondie,heart of glass,0.8079999999999999,355/6,G,G7/B,Em,G
+boston,peace of mind,0.6829999999999999,12375,C,Dm,G,Em7
+boston,peace of mind,0.6829999999999999,116556,C,C/E,G,G/B
+boston,peace of mind,0.6829999999999999,4556,G,G/B,G,F
+britney spears,oops i did it again,0.894,345/66,F,Em,G7/B,Am
+britney spears,oops i did it again,0.894,155/656,G,G/B,C,G7/B
+britney spears,toxic,0.924,1165/66,Am,C,C/E,G7/B
+bruno mars,locked out of heaven,0.867,1235/6,Em,Dm,C,G7/B
+carly rae jepsen,boy problems,0.8290000000000001,274667,F,Dm7,Am7,Am
+carly rae jepsen,boy problems,0.8290000000000001,275667,Dm7,Am7,Am,G
+carly simon,with a few good friends,0.762,56b7,Am,Bb,Am,G
+carrie underwood,cowboy casanova,0.5760000000000001,12745/6,C,Dm7,G7/B,F
+caspar babypants,googly eyes,0.794,116425,Dm,C,G,C/G
+chaka khan,ain't nobody,0.816,17275767,Dm7,G7,Am7,C7
+cher,half breed,0.902,2746,F,Am,Dm7,Am
+cher,half breed,0.902,22746,Dm,F,Am,Dm7
+citizen king,better days - and the bottom drops out,0.797,457,F,G7,F,G7
+citizen king,better days - and the bottom drops out,0.797,3457,Em,F,G7,F
+clean bandit,rather be,0.5489999999999999,162747,F7,C/E,Dm7,F7
+clean bandit,rather be,0.5489999999999999,3747667,F7,Em7,Am7,Am
+cold chisel,khe sanh,0.667,2745b7,F,Dm7,Bb,G
+cold chisel,khe sanh,0.667,16274,Dm7,C/E,F,Dm7
+cold chisel,khe sanh,0.667,2756b7,Dm7,Bb,G,Am
+conrad sewell,who you lovin',0.764,13756,Am,G,Em7,C
+creedence clearwater revival,proud mary,0.7859999999999999,5b7,G,Bb,G,Bb
+crush 40,knight of the wind,0.5820000000000001,26b7,Dm,Bb,Bb,Am
+daft punk,digital love,0.53,3745/66,F,G7/B,Am,Em7
+daft punk,superheroes,0.675,2745767,Dm7,G7,Am7,F
+darwin deez,radar detector,0.782,144767,F,C,F7,Am7
+darwin deez,radar detector,0.782,567,G,Am7,G,Am7
+dave matthews band,crash into me,0.555,1161644,C,C/E,F,C/G
+david bowie,soul love,0.71,12735,C,Em,Dm7,G
+david bowie,soul love,0.71,4476b7,Am,Bb,F,F7
+david bowie,soul love,0.71,447557,F7,G,F,G7
+death cab for cutie,title and registration,0.727,1644767,F7,Am7,C/G,F7
+dire straits,brothers in arms,0.657,34475,Em,F,G,F7
+dram,cha cha,0.6559999999999999,172,Dm,C7,Dm,C7
+dram,cha cha,0.6559999999999999,1172,Dm,C7,Dm,C
+eminem,superman,0.557,13556,C,G/B,Em,G
+eric clapton,i shot the sheriff,0.647,276,Am,Dm7,Am,Dm7
+failure,empty friend,0.741,25b7,G,Dm,G,Bb
+fancy,flames of love,0.772,274475/6,F,F7,Dm7,G7/B
+fancy,flames of love,0.772,27475/66,F7,Dm7,G7/B,Am
+feist,mushaboom,0.8370000000000001,2475,G,F7,Dm,G
+feist,mushaboom,0.8370000000000001,247557,F7,Dm,G,G7
+fiona apple,paper bag,0.845,147b7,C,F7,Bb,C
+foster the people,best friend,0.8009999999999999,3475,G,Em,F7,G
+frank zappa,peaches en regalia,0.7659999999999999,25767,Dm,Am7,Dm,G7
+frank zappa,peaches en regalia,0.7659999999999999,17257,Dm,G7,Dm,C7
+frank zappa,peaches en regalia,0.7659999999999999,17267,Dm,C7,Dm,Am7
+frank zappa,peaches en regalia,0.7659999999999999,172667,Dm,C7,Am7,Am
+galantis,peanut butter jelly,0.545,13767,C,Em7,Am7,Em7
+galantis,peanut butter jelly,0.545,12274,Dm7,Dm,F,C
+gary allan,smoke rings in the dark,0.635,34b7,Em,F,Bb,F
+george benson,turn your love around,0.7659999999999999,4475/6,F,G7/B,F7,G7/B
+george benson,turn your love around,0.7659999999999999,44755/6,G,F,G7/B,F7
+gloria gaynor,i will survive,0.5579999999999999,172756,Am,Dm7,G,C7
+gloria gaynor,i will survive,0.5579999999999999,1727475,Dm7,G,C7,F7
+gnarls barkley,crazy,0.612,17667,Am,Am7,Am,C7
+gnarls barkley,crazy,0.612,17475/66,Am,C7,F7,G7/B
+gwen stefani,make me like you,0.799,1727567,G,C7,Am7,Dm7
+gwen stefani,the sweet escape,0.737,164235/6,Em,Dm,C/G,G7/B
+jessie j,masterpiece,0.613,275566,G,G/B,Am,Dm7
+john denver,take me home country roads,0.546,1576b7,C,G7,Am,Bb
+kasabian,man of simple pleasures,0.618,136b7,C,Em,Bb,Am
+kasabian,man of simple pleasures,0.618,13b7,Em,C,Em,Bb
+katy perry,birthday,0.843,2747,F7,Dm7,F7,Dm7
+king harvest,dancing in the moonlight,0.7709999999999999,273557,Dm7,G7,G,Em
+kings of convenience,i'd rather dance with you,0.972,16437567,G,Am7,Em7,C/G
+kiss,i was made for lovin' you,0.8640000000000001,2276,Am,Dm,Dm7,Dm
+kiss,i was made for lovin' you,0.8640000000000001,227476,Am,Dm,Dm7,F7
+kiss,i was made for lovin' you,0.8640000000000001,227475,Dm,Dm7,F7,G
+kylie minogue,i should be so lucky,0.8859999999999999,273567,G,Em,Am7,Dm7
+lady gaga,scheisse,0.539,3667,Am,Em,Am7,Em
+leann rimes,can't fight the moonlight,0.626,455/657,G,G7,F,G7/B
+leann rimes,can't fight the moonlight,0.626,24557,Dm,G,G7,F
+lily allen,fuck you,0.84,164245,Dm,F,C/G,G
+mac demarco,freaking out the neighborhood,0.847,1273767,Dm7,Em7,Am7,C
+madonna,la isla bonita,0.968,11642,Dm,C,C/G,C
+madonna,material girl,0.978,1166b7,C,C/E,Bb,Am
+michael jackson,thriller,0.847,1475b7,G,F7,Bb,C
+monty python,always look on the bright side of life,0.7390000000000001,275576,Am,Dm7,G,G7
+neil sedaka,breaking up is hard to do,0.966,145767,C,Am7,F,G7
+new radicals,you get what you give,0.711,37567,G,Em7,Am7,G
+pixies,here comes your man,0.8690000000000001,17556,G,G/B,C7,G
+queen,i want to break free,0.5820000000000001,116b7,C,C/E,Bb,C/E
+queen,i want to break free,0.5820000000000001,1164b7,F,C,C/E,Bb
+s club 7,s club party,0.787,1165667,C,G/B,Am7,C/E
+saves the day,driving in the dark,0.535,27566,Am,Dm7,G/B,Am
+saves the day,driving in the dark,0.535,235767,Em,Am7,Dm,G7
+saves the day,driving in the dark,0.535,16164367,Em,Am7,C/E,C/G
+saves the day,driving in the dark,0.535,227566,Dm7,G/B,Am,Dm
+saves the day,freakish,0.527,4576,F,Am,G7,F
+scatman john,scatman's world,0.757,12736,Am,Em,Dm7,C
+starbomb,smash,0.795,162556,G,Dm,C/E,G/B
+steppenwolf,born to be wild,0.5329999999999999,557b7,G,G7,G,Bb
+stevie wonder,for once in my life,0.847,2733767,Em,Em7,Am7,Dm7
+swedish house mafia,miami 2 ibiza,0.6579999999999999,17345,Em,C7,F,G
+taio cruz,break your heart,0.629,1166,C,C/E,C,Am
+the beatles,if i fell,0.568,227357,Dm,Em,Dm7,G7
+the black eyed peas,i gotta feeling,0.6,1644576,F,G7,Am,C/G
+the chordettes,mr sandman,0.589,11642757,Dm7,G7,C,C/G
+the free design,kites are fun,0.518,17447,F,C7,F7,C7
+the free design,kites are fun,0.518,2273767,Dm7,Em7,Am7,Dm
+the human league,don't you want me,0.958,13375/6,Em,Em7,C,G7/B
+the impressions,it's all right,0.7490000000000001,117457,C,F,G7,C7
+the impressions,it's all right,0.7490000000000001,273757,Dm7,Em7,Dm7,G7
+the mighty mighty bosstones,the impression that i get,0.665,117566,Am,G/B,C,C7
+the smiths,there is a light that never goes out,0.8759999999999999,144757,F,F7,C,G7
+the smiths,there is a light that never goes out,0.8759999999999999,1475767,F7,C,G7,Am7
+the turtles,happy together,0.588,275b7,G,Dm7,G,Bb
+thundercat,them changes,0.715,17455/6,G,C7,F,G7/B
+todd rundgren,i saw the light,0.81,172735,Dm7,G,C7,Em
+toto,africa,0.732,13767b7,C,Em7,Am7,Bb
+toto,africa,0.732,2467b7,Dm,Bb,F,Am7
+twenty one pilots,ride,0.5660000000000001,2747556,Dm7,F7,G,G/B
+weather report,birdland,0.5770000000000001,162367,Em,Am7,Dm,C/E
+weather report,birdland,0.5770000000000001,2475767,F7,Dm,Am7,G7
+zedd,follow you down,0.5760000000000001,164356,Em,Am,C/G,G

@@ -1,0 +1,13 @@
+{% extends "layout.html" %}
+{% block body %}
+<div class="input text">
+    {{ form.name.label }} {{ form.name }}
+</div>
+
+<div class="input submit">
+  <input type="submit" value="Submit" />
+    <form action="{{ url_for('submit') }}" method="post">
+    <textarea name="text"></textarea>
+  <input type="submit">
+</form>
+{% endblock %}
