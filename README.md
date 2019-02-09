@@ -11,4 +11,4 @@ This project was built over a period of a three weeks at Insight Data Science as
 
 This repository contains saved trained models and all of the code dependencies for the web application. 
 
-The NLP of the lyrical data and construction of emotional sentiment classifier may be found in [Emotional-Valence-Classifier.ipynb](https://github.com/rkthrasher/Lyrics2Chords/blob/master/Emotional-Valence-Classifier.ipynb).
+The NLP of the lyrical data and construction of the emotional sentiment classifier may be found in [Emotional-Valence-Classifier.ipynb](https://github.com/rkthrasher/Lyrics2Chords/blob/master/Emotional-Valence-Classifier.ipynb).
