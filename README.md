@@ -9,4 +9,6 @@ that are able to acoustically voice the appropriate message.
 
 This project was built over a period of a three weeks at Insight Data Science as part of my data science fellowship project. The data was collected from the APISeeds Lysics, Spotify, and Hook Theory. The backed of the application was written in Python 3.5 using a variety of machine learning and scientific computing packages.
 
-This repository contains saved trained models and all of the code dependencies for the web application. The files and code designed to train the model will be posted soon.
+This repository contains saved trained models and all of the code dependencies for the web application. 
+
+The NLP of the lyrical data and construction of emotional sentiment classifier may be found in [Emotional-Valence-Classifier.ipynb](https://github.com/rkthrasher/Lyrics2Chords/blob/master/Emotional-Valence-Classifier.ipynb).
