@@ -7,7 +7,7 @@
 Lyrics2Chords addresses this problem by using machine learning to predict the [emotional valence](https://en.wikipedia.org/wiki/Valence_(psychology)) of lyrics inputted by the user to suggest chord progressions
 that are able to acoustically voice the appropriate message. 
 
-This project was built over a period of a three weeks at Insight Data Science as part of my data science fellowship project. The data was collected from the APISeeds Lysics, Spotify, and Hook Theory. The backed of the application was written in Python 3.5 using a variety of machine learning and scientific computing packages.
+This project was built over a period of a three weeks at Insight Data Science as part of my data science fellowship project. The data was collected from  APISeeds Lysics, Spotify, and Hook Theory. The backed of the application was written in Python 3.5 using a variety of machine learning and scientific computing packages.
 
 This repository contains saved trained models and all of the code dependencies for the web application. 
 
