@@ -2,7 +2,7 @@
 ### Using Machine Learning To Facilitate Creativity
 
 
-[Lyrics2Chords](http://thrasher.website) is a web application designed for budding songwriters. Songwriting is a cumbersome process that requires an understanding of how to deliver a message both lyrically and acoustically. A lyrically sad song for instance can be accentuated by sad sounding harmonies. However for those new to songwriting arranging music to support the lyrical sentiments can be a trial and error process. 
+Lyrics2Chords is a web application designed for budding songwriters. Songwriting is a cumbersome process that requires an understanding of how to deliver a message both lyrically and acoustically. A lyrically sad song for instance can be accentuated by sad sounding harmonies. However for those new to songwriting arranging music to support the lyrical sentiments can be a trial and error process. 
 
 Lyrics2Chords addresses this problem by using machine learning to predict the [emotional valence](https://en.wikipedia.org/wiki/Valence_(psychology)) of lyrics inputted by the user to suggest chord progressions
 that are able to acoustically voice the appropriate message. 
